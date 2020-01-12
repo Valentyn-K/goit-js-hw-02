@@ -7,7 +7,7 @@ const formatString = function (string) {
     } else {
         console.log(`${string}`);
     }
-    return;
+    // return;
 }
 
 console.log(formatString('Curabitur ligula sapien, tincidunt non.'));
